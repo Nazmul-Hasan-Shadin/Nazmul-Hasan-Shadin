@@ -26,8 +26,8 @@ const Contact = () => {
       </div>
       <div className="contact-right">
         <form action="">
-          <input type="text " placeholder='Name' />
-          <input type="text " placeholder='Email' />
+          <input type="text" placeholder='Name' />
+          <input type="email" placeholder='Email' />
           <textarea name="message" placeholder='Message'></textarea>
           <button className="submit-button">Send Message</button>
         </form>

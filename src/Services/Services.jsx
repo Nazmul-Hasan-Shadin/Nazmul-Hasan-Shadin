@@ -41,24 +41,35 @@ const Services = () => {
             />
             </motion.div>
             {/*  2nd card */}
-            <div style={{top:'14rem',left:'-17rem'}}>
+            <motion.div 
+             initial={{right:'25%'}}
+             whileInView={{right:'-14rem'}}
+             transition={transition}
+             
+            
+            style={{top:'14rem',left:'-17rem'}}>
             <Card
             emoji={HeartEmoji}
             heading={'Developer' }
             detail={"Html,css, js,react"}
             
             />
-            </div>
+            </motion.div>
                          {/* 3rd card */}
 
-     <div style={{top:'18rem',left:'-1rem'}}>
+     <motion.div
+       initial={{left:'25%'}}
+       whileInView={{left:'14rem'}}
+       transition={transition}
+       
+     style={{top:'18rem',left:'-1rem'}}>
             <Card
             emoji={HeartEmoji}
             heading={'Ul/UX' }
             detail={"Html,css, js,react"}
             
             />
-            </div>
+            </motion.div>
 
 
          </div>

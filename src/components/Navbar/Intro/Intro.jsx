@@ -1,4 +1,5 @@
-import React from 'react';
+import React  from 'react';
+import { Link } from 'react-router-dom';
 import "./Intro.css"
 import Github from  '../../../img/github.png'
 import Linkdin from  '../../../img/linkedin.png'
@@ -28,7 +29,9 @@ const Intro = () => {
 
 <div className="i-icons">
    
-    <img src={Github} alt="" />
+ <a href="https://github.com/Nazmul-Hasan-Shadin">
+ <img src={Github} alt="" />
+  </a> 
 
 
     

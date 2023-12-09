@@ -1,7 +1,15 @@
-# Hello, I'm [Your Name] 👋
 
-Experienced MERN stack developer with a passion for crafting robust and scalable web applications. My skill set includes HTML, CSS, JavaScript, React.js for dynamic UIs, and Node.js with Express.js for server-side development. I'm well-versed in database technologies, utilizing both MongoDB and Firebase to handle data efficiently
+[![An old rock in the desert](./cover/Dark%20Blue%20Modern%20Business%20LinkedIn%20Banner%20(1).png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/nazmul-hasan-shadin-8b4954155/)
 
+
+
+# Hello, I'm [Nazmul Hasan Shadin] 👋
+
+Junior MERN stack developer passionate about building web applications. Proficient in HTML, CSS, JS, React.js, and Node.js with Express.js. Learning the ropes of MongoDB and Firebase for efficient data handling.
+
+Currently exploring Next.js for powerful and performant web applications, eager to unlock its advanced features.
+
+Next on the learning path: TypeScript. Excited to improve code maintainability and gain early issue detection in development.
 # github stat
 <p align="center">
   <a href="https://git.io/streak-stats">

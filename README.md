@@ -2,11 +2,16 @@
 
 Experienced MERN stack developer with a passion for crafting robust and scalable web applications. My skill set includes HTML, CSS, JavaScript, React.js for dynamic UIs, and Node.js with Express.js for server-side development. I'm well-versed in database technologies, utilizing both MongoDB and Firebase to handle data efficiently
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nazmul-Hasan-Shadin&theme=dark&type=png)](https://git.io/streak-stats)
-
-
 # github stat
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazmul-Hasan-Shadin&theme=github_dark)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Nazmul-Hasan-Shadin&theme=dark&type=png" alt="GitHub Streak" />
+  </a>
+</p>
+
+
+
+
 
 
 # MERN Stack Developer
@@ -78,4 +83,48 @@ Developed a comprehensive Inventory Management System that empowers shop owners 
 - Implemented secure JWT authentication via Firebase for enhanced user access control.
 - Structured the backend using Express.js, MongoDB, and Mongoose for optimized data management and code maintainability.
 - Designed a visually appealing and responsive web interface using React and Tailwind CSS, resulting in an efficient inventory management experience.
+
+
+**Live Link:** [Inventory Management System](https://inventory-management-system7.web.app/)
+
+## 2. Book Library
+
+**Duration:** [Enter Duration]
+
+**Technologies Used:**
+- **Backend:** JavaScript, Express.js
+- **Database:** MongoDB
+- **Authentication:** Firebase (Secure authentication using JWT)
+- **Frontend:** React, Tailwind CSS
+
+### Overview:
+Developed a Book Library System that allows registered users to manage and borrow books with enhanced security and a user-friendly interface.
+
+**Key Features:**
+1. **User Authentication:**
+   - Implemented secure authentication using Firebase and JWT, ensuring a robust user access control system.
+
+2. **Book Management:**
+   - Users can add new books to the library.
+   - Each book has a unique identifier, and users cannot borrow multiple copies of the same book simultaneously.
+
+3. **Borrowing System:**
+   - Users can borrow books from the library.
+   - Implemented a system to ensure users cannot borrow multiple copies of the same book simultaneously.
+
+4. **Quantity Management:**
+   - The quantity of a book decreases when a user borrows it, providing accurate inventory management.
+
+5. **Efficient Inventory Interface:**
+   - Crafted an efficient and user-friendly inventory interface using React and Tailwind CSS.
+
+**Key Contributions:**
+- Implemented secure authentication using Firebase and JWT for enhanced user access control.
+- Optimized data management with MongoDB, ensuring efficient handling of book information.
+- Developed an intuitive and responsive inventory interface using React and Tailwind CSS, prioritizing an optimal user experience.
+
+Feel free to customize the duration and add more specific details based on your project's timeline and features.
+
+**Live Link:** [Inventory Management System](https://book-library2.firebaseapp.com/)
+
 

@@ -13,13 +13,16 @@ Currently exploring Next.js for powerful and performant web applications and gea
   </a>
 </p>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nazmul-Hasan-Shadin&theme=aura_dark" alt="GitHub Stats" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="margin-right: 20px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nazmul-Hasan-Shadin&theme=aura_dark" alt="GitHub Stats" />
+  </div>
+
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default" alt="Repos Per Language" />
+  </div>
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default" alt="Repos Per Language" />
-</div>
 
 # MERN Stack Developer
 

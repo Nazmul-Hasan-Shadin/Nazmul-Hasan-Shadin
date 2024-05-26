@@ -1,6 +1,6 @@
 [![LinkedIn Banner](./cover/Dark%20Blue%20Modern%20Business%20LinkedIn%20Banner%20(1).png "LinkedIn Banner")](https://www.linkedin.com/in/nazmul-hasan-shadin-8b4954155/)
 
-# Hello, I'm [Nazmul Hasan Shadin] 👋
+# Hello, I'm [Nazmul-Hasan-Shadin] 👋
 
 Junior MERN stack developer passionate about building robust and scalable web applications. Proficient in HTML, CSS, JS, React.js, and Node.js with Express.js.
 

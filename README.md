@@ -2,7 +2,7 @@
 
 # Hello, I'm [Nazmul-Hasan-Shadin] 👋
 
-Junior MERN stack developer passionate about building robust and scalable web applications. Proficient in HTML, CSS, JS, React.js, and Node.js with Express.js.
+Junior MERN stack developer passionate about building robust and scalable web applications. Proficient in HTML, CSS, JS,Typescript, React.js,Mongodb, and Node.js with Express.js.
 
 Currently exploring Next.js for powerful and performant web applications and gearing up for TypeScript to enhance code maintainability.
 

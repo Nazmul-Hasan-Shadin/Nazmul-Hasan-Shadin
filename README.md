@@ -7,14 +7,7 @@ Junior Full stack developer passionate about building robust and scalable web ap
 Currently exploring Next.js for powerful and performant web applications and gearing up for TypeScript to enhance code maintainability.
 
 # GitHub Stats
-<div style="text-align: center;">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Nazmul-Hasan-Shadin&theme=dark&type=png"
-      alt="GitHub Streak"
-    />
-  </a>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nazmul-Hasan-Shadin&theme=dark" alt="GitHub Streak" /></a>
 
 
 

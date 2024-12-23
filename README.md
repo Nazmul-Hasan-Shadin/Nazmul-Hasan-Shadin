@@ -2,30 +2,29 @@
 
 # Hello, I'm [Nazmul-Hasan-Shadin] 👋
 
-Junior MERN stack developer passionate about building robust and scalable web applications. Proficient in HTML, CSS, JS,Typescript, React.js,Mongodb, and Node.js with Express.js.
+Junior Full stack developer passionate about building robust and scalable web applications. Proficient in  React.js ,Next.js,Redux,Typescript,JS,Mongodb, and Node.js with Express.js.
 
 Currently exploring Next.js for powerful and performant web applications and gearing up for TypeScript to enhance code maintainability.
 
 # GitHub Stats
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Nazmul-Hasan-Shadin&theme=dark&type=png" alt="GitHub Streak" />
-  </a>
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nazmul-Hasan-Shadin&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 
 
 
-# MERN Stack Developer
+# Full Stack Developer
 
-- **Tech Stack:** MongoDB, Express.js, React, Node.js
+- **Tech Stack:** MongoDB, Express.js, React,Nextjs, Node.js
 - **Specialization:** Building dynamic and responsive web applications
 - **Development Approach:** Full-stack covering both frontend and backend
 - **Development Lifecycle:** Skilled in UI design to data storage and retrieval
 
 # Language and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,expressjs,nodejs,mongodb,firebase,tailwind,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,expressjs,prisma,nodejs,mongodb,firebase,tailwind,css,html)](https://skillicons.dev)
 
 ## Connect with Me
 
@@ -39,7 +38,7 @@ Currently exploring Next.js for powerful and performant web applications and gea
 
 ## 1. Inventory Management System
 
-**Tech Stack:** JavaScript, React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
+**Tech Stack:** Typescript,JavaScript, React,redux,Next js,Redux, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
 
 **Overview:**
 Comprehensive system empowering shop owners with advanced features for effective business management.

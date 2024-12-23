@@ -1,16 +1,21 @@
 [![LinkedIn Banner](./cover/Dark%20Blue%20Modern%20Business%20LinkedIn%20Banner%20(1).png "LinkedIn Banner")](https://www.linkedin.com/in/nazmul-hasan-shadin-8b4954155/)
 
-# Hello, I'm [Nazmul-Hasan-Shadin] 👋
+# Hello, I'm Nazmul Hasan Shadin
 
 Junior Full stack developer passionate about building robust and scalable web applications. Proficient in  React.js ,Next.js,Redux,Typescript,JS,Mongodb, and Node.js with Express.js.
 
 Currently exploring Next.js for powerful and performant web applications and gearing up for TypeScript to enhance code maintainability.
 
 # GitHub Stats
-<p align="center">
+<div style="text-align: center;">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=Nazmul-Hasan-Shadin&theme=dark&type=png"
+      alt="GitHub Streak"
+    />
+  </a>
+</div>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nazmul-Hasan-Shadin&theme=dark" alt="GitHub Streak" /></a>
-</p>
 
 
 
